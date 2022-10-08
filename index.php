@@ -52,21 +52,21 @@
             </ul>
     <div class="carousel-inner">
         <div class="carousel-item active">
-        <img src="images/lake.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="images/3.jpg" alt="Los Angeles" width="1100" height="500">
         <div class="carousel-caption">
             <h3>Los Angeles</h3>
             <p>We had such a great time in LA!</p>
         </div>   
         </div>
         <div class="carousel-item">
-        <img src="images/city.jpg" alt="Chicago" width="1100" height="500">
+        <img src="images/2.jpg" alt="Chicago" width="1100" height="500">
         <div class="carousel-caption">
             <h3>Chicago</h3>
             <p>Thank you, Chicago!</p>
         </div>   
         </div>
         <div class="carousel-item">
-        <img src="images/mon.jpg" alt="New York" width="1100" height="500">
+        <img src="images/10.jpg" alt="New York" width="1100" height="500">
         <div class="carousel-caption">
             <h3>New York</h3>
             <p>We love the Big Apple!</p>
@@ -87,7 +87,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-12 aboutus ">
-                    <img src="images/p1.jpg" class="  img-fluid">
+                    <img src="images/6.jpg" class="  img-fluid">
                 </div>
                 <div class="col-lg-6 col-md-6 col-12" >
                     <h2 class=" "> THIS IS SARAS TECHNICAL</h2>
@@ -107,9 +107,9 @@
         </div>
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-3 col-md-3 col-12  ">
+                <div class="col-lg-4 col-md-4 col-12  ">
                     <div class="card" >
-                    <img class="card-img-top" src="images/city.jpg" alt="Card image">
+                    <img class="card-img-top" src="images/10.jpg" alt="Card image">
                     <div class="card-body">
                         <h4 class="card-title">John Doe</h4>
                         <p class="card-text">Some example text.</p>
@@ -118,9 +118,9 @@
                     </div>
                     
                 </div>
-                <div class="col-lg-3 col-md-3 col-12  ">
+                <div class="col-lg-4 col-md-4 col-12  ">
                     <div class="card" >
-                    <img class="card-img-top" src="images/city.jpg" alt="Card image">
+                    <img class="card-img-top" src="images/11.jpg" alt="Card image">
                     <div class="card-body">
                         <h4 class="card-title">John Doe</h4>
                         <p class="card-text">Some example text.</p>
@@ -129,9 +129,9 @@
                     </div>
                     
                 </div>
-                <div class="col-lg-3 col-md-3 col-12  ">
+                <div class="col-lg-4 col-md-4 col-12  ">
                     <div class="card" >
-                    <img class="card-img-top" src="images/city.jpg" alt="Card image">
+                    <img class="card-img-top" src="images/9.jpg" alt="Card image">
                     <div class="card-body">
                         <h4 class="card-title">John Doe</h4>
                         <p class="card-text">Some example text.</p>
@@ -140,17 +140,7 @@
                     </div>
                     
                 </div>
-                <div class="col-lg-3 col-md-3 col-12  ">
-                    <div class="card" >
-                    <img class="card-img-top" src="images/city.jpg" alt="Card image">
-                    <div class="card-body">
-                        <h4 class="card-title">John Doe</h4>
-                        <p class="card-text">Some example text.</p>
-                        <a href="#" class="btn btn-primary">See Profile</a>
-                    </div>
-                    </div>
-                    
-                </div>              
+                         
             </div>
         </div>
         
@@ -164,47 +154,47 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-12  ">
                     <div class="card" >
-                        <img class="card-img-top  mb-4" src="images/city.jpg" alt="Card image">
+                        <img class="card-img-top  mb-4" src="images/1.jpg" alt="Card image">
                     </div>   
                 </div>
                 <div class="col-lg-4 col-md-4 col-12  ">
                     <div class="card" >
-                        <img class="card-img-top  mb-4" src="images/lake.jpg" alt="Card image">
+                        <img class="card-img-top  mb-4" src="images/2.jpg" alt="Card image">
                     </div>   
                 </div>
                 <div class="col-lg-4 col-md-4 col-12  ">
                     <div class="card" >
-                        <img class="card-img-top  mb-4" src="images/city.jpg" alt="Card image">
+                        <img class="card-img-top  mb-4" src="images/3.jpg" alt="Card image">
                     </div>   
                 </div>
                 <div class="col-lg-4 col-md-4 col-12  ">
                     <div class="card" >
-                        <img class="card-img-top pb-4 " src="images/lake.jpg" alt="Card image">
+                        <img class="card-img-top pb-4 " src="images/4.jpg" alt="Card image">
                     </div>   
                 </div>
                 <div class="col-lg-4 col-md-4 col-12  ">
                     <div class="card" >
-                        <img class="card-img-top pb-4 " src="images/mon.jpg" alt="Card image">
+                        <img class="card-img-top pb-4 " src="images/5.jpg" alt="Card image">
                     </div>   
                 </div>
                 <div class="col-lg-4 col-md-4 col-12  ">
                     <div class="card" >
-                        <img class="card-img-top  pb-4" src="images/lake.jpg" alt="Card image">
+                        <img class="card-img-top  pb-4" src="images/6.jpg" alt="Card image">
                     </div>   
                 </div>
                 <div class="col-lg-4 col-md-4 col-12  ">
                     <div class="card" >
-                        <img class="card-img-top " src="images/city.jpg" alt="Card image">
+                        <img class="card-img-top " src="images/7.jpg" alt="Card image">
                     </div>   
                 </div>
                 <div class="col-lg-4 col-md-4 col-12  ">
                     <div class="card" >
-                        <img class="card-img-top  " src="images/lake.jpg" alt="Card image">
+                        <img class="card-img-top  " src="images/11.jpg" alt="Card image">
                     </div>   
                 </div>
                 <div class="col-lg-4 col-md-4 col-12  ">
                     <div class="card" >
-                        <img class="card-img-top  " src="images/city.jpg" alt="Card image">
+                        <img class="card-img-top  " src="images/9.jpg" alt="Card image">
                     </div>   
                 </div>
                 
