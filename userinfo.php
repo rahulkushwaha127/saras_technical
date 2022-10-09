@@ -1,11 +1,13 @@
 <?php
     $con = mysqli_connect('localhost','root');
 
-    //if($con){
-     //   echo "Connection Successful";
-    //}else{
-    //    echo "Not Connected";
-    //}
+    if($con){
+       echo "Connection Successful";
+       header("location:index.php");
+    }else{
+        echo "Not Connected";
+        header("location:index.php");
+    }
 
     mysqli_select_db($con, 'github1');
 
