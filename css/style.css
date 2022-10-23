@@ -4,11 +4,22 @@
     box-sizing: border-box;    
 
 }
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+}
 .carousel-inner img {
     width: 100%;
-    height: 90vh;
+    min-height: auto;
+   
 }
 .aboutus img{
     width: 100%;
-    height: 250px!important;
+    height: auto;
+}
+
+.p p{
+    margin-bottom: 0!important;
 }

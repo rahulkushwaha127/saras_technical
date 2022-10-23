@@ -3,10 +3,10 @@
 
     if($con){
        echo "Connection Successful";
-       header("location:index.php");
+       header("location:index.html");
     }else{
         echo "Not Connected";
-        header("location:index.php");
+        header("location:index.html");
     }
 
     mysqli_select_db($con, 'github1');
